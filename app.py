@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, Flask'
+    return 'Hello, FlaskVM'
 
 # from flask import Flask
 # app = Flask(__name__)
